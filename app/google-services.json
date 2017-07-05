@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "193104874575",
+    "firebase_url": "https://mychat-e61ec.firebaseio.com",
+    "project_id": "mychat-e61ec",
+    "storage_bucket": "mychat-e61ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193104874575:android:d8878369b2b8e6b2",
+        "android_client_info": {
+          "package_name": "com.example.tipsung.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193104874575-m7f7g0rt56a12e0emshtprlpo6klp7em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGCByLwG48z-4laWMU1swP49LcENhvULk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
